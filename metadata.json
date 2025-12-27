@@ -1,0 +1,4 @@
+{
+  "name": "AI Task Manager",
+  "description": "A full-stack task management system using React, Supabase, Node.js, and n8n."
+}
